@@ -1,0 +1,3 @@
+[submodule "terraform"]
+	path = terraform
+	url = git@github.com:AbdellaAbdella1/Terraform-project-1.git
